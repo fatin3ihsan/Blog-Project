@@ -27,3 +27,4 @@ traitlets==4.3.3
 wcwidth==0.1.9
 whitenoise==5.1.0
 wincertstore==0.2
+django_heroku
